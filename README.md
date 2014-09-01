@@ -8,7 +8,7 @@ and the name is way to long to it makes me reluctant to install them.
 ## package contains:
 
 * [continuable](https://github.com/Raynos/continuable)
-  `to, map, mayAsync, join, both, of, error, chain, either
+  `to, map, mayAsync, join, both, of, error, chain, either`
 * [continuable-series](https://github.com/dominictarr/continuable-series)
   `series`
 * [continuable-para](https://github.com/dominictarr/continuable-para)
