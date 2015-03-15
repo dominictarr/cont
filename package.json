@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "continuable-series": "~1.2.0",
-    "continuable": "https://github.com/dominictarr/continuable.git",
+    "continuable": "git://github.com/dominictarr/continuable.git",
     "continuable-para": "~1.2.0"
   },
   "devDependencies": {},
